@@ -1,0 +1,26 @@
+{
+  "name": "paper-mache",
+  "version": "1.0.0",
+  "description": "This provides snippets that allow interoperability between otherwise incompatible versions of software libraries.",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewkfiedler/paper-mache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewkfiedler/paper-mache/issues"
+  },
+  "homepage": "https://github.com/andrewkfiedler/paper-mache#readme",
+  "devDependencies": {
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
